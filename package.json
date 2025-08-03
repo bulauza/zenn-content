@@ -16,8 +16,8 @@
     "url": "https://github.com/bulauza/zenn-content/issues"
   },
   "homepage": "https://github.com/bulauza/zenn-content#readme",
-  "description": "",
+  "description": "* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)",
   "dependencies": {
-    "zenn-cli": "^0.1.158"
+    "zenn-cli": "^0.1.162"
   }
 }
